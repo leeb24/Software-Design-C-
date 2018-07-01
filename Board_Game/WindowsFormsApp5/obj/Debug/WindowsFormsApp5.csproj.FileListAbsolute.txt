@@ -1,0 +1,10 @@
+C:\Users\Lee\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Lee\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Lee\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Lee\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\Lee\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Lee\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Lee\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\Users\Lee\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Lee\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Lee\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
