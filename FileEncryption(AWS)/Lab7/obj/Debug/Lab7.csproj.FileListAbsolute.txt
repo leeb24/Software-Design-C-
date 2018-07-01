@@ -1,0 +1,16 @@
+C:\Users\Lee\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Lee\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\Lee\source\repos\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Lee\source\repos\Lab7\Lab7\bin\Debug\AWSSDK.Core.dll
+C:\Users\Lee\source\repos\Lab7\Lab7\bin\Debug\AWSSDK.S3.dll
+C:\Users\Lee\source\repos\Lab7\Lab7\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Lee\source\repos\Lab7\Lab7\bin\Debug\AWSSDK.Core.xml
+C:\Users\Lee\source\repos\Lab7\Lab7\bin\Debug\AWSSDK.S3.pdb
+C:\Users\Lee\source\repos\Lab7\Lab7\bin\Debug\AWSSDK.S3.xml
+C:\Users\Lee\source\repos\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
+C:\Users\Lee\source\repos\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\Lee\source\repos\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Lee\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.Cache
+C:\Users\Lee\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Lee\source\repos\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\Lee\source\repos\Lab7\Lab7\obj\Debug\Lab7.pdb
